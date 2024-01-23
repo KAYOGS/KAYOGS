@@ -1,2 +1,1 @@
-Hello 👋, my name is Kayo. I'm a simple programming student who likes challenges, I also like sports, and I'm finishing high school.
-
+Hello! my name is Kayo, i have 17 years, i study inglish and programation! i hant very understand a market programation.
