@@ -2,7 +2,7 @@
 
 ## Sobre mim :)
 
-Olá meu nome é Kayo Gabriel e tenho 20 anos, sou formado em análise e desenvolvimento de sistemas. Possuo também outras formações como IOT, Informatica básica, Gestão de crises no setor público e outros...
+Olá meu nome é Kayo Gabriel e tenho 20 anos. Sou formado em análise e desenvolvimento de sistemas. Possuo também outras formações como IOT, Informatica básica, Gestão de crises no setor público e outros...
 
 Atualmente me encontro cursando Sistema da Informação no Centro Universitário Salesiano - Vitória/ES onde estou fazendo o 5° Período.
 
