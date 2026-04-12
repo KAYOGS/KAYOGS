@@ -49,4 +49,4 @@ Atuei em uma Start Up com automatização de testes unitários e hoje auxilio na
 ## Filosofia
 Não estou com pressa, pois quero respeitar meus limites e ir levando as minhas responsabilidades com calma, um passo de cada vez. Quero tomar um cafezinho enquanto as coisas apertarem, para que minha profissão não se torne um fardo.
 
-`Gmail: kayogabriel.ss16@gmail.com`
+`Gmail:` [kayogabriel.ss16@gmail.com](mailto:kayogabriel.ss16@gmail.com)
