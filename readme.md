@@ -29,8 +29,8 @@ Atuei em uma Start Up com automatização de testes unitários e hoje auxilio na
 ## Outros
 
 - Excel, Word, Power Point;
-- Canva e Figma.
-- Linux
+- Canva e Figma;
+- Linux.
 
 ## Passa tempo
 
