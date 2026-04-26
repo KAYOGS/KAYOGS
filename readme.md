@@ -13,7 +13,7 @@ Atuei em uma Start Up com automatização de testes unitários e hoje auxilio na
 ## Conhecimentos
 
 - Java e Spring;
-- JavaScript, Node, React e Next;
+- JavaScript, TypeScript, Node, React e Next;
 - Html e Css;
 - Rscript;
 - C++, Qt e CMake;
