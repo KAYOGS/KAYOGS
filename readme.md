@@ -44,9 +44,6 @@ Atuei em uma Start Up com automatização de testes unitários e hoje auxilio na
 - Refinar minhas habilidades;
 - Me tornar um escovador de Bits(Dominar linguagens de baixo nível);
 - Trabalhar com recuperação de sistemas legados;
-- Me tornar um dev Sênior muito bem capacitado para atuar onde outros não querem atuar.
-
-## Filosofia
-Não estou com pressa, pois quero respeitar meus limites e ir levando as minhas responsabilidades com calma, um passo de cada vez. Quero tomar um cafezinho enquanto as coisas apertarem, para que minha profissão não se torne um fardo.
+- Me tornar um dev Sênior muito bem capacitado.
 
 `Gmail:` [kayogabriel.ss16@gmail.com](mailto:kayogabriel.ss16@gmail.com)
