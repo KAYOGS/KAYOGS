@@ -8,7 +8,9 @@ Atualmente me encontro cursando Sistema da Informação no Centro Universitário
 
 ## Experiencias
 
-Atuei em uma Start Up com automatização de testes unitários e hoje auxilio na implantação de um sistema de RH no Banestes - Vitória/ES.
+Atuei em uma startup realizando automatização de testes unitários em Dart/Flutter e hoje auxilio na implantação do novo sistema de RH do Banestes(Gente/LG) onde realizei diversos tratamentos de dados para garantir a integridade dos mesmos e evitando futuros transtornos.
+
+Técnologias utilizadas: SQL, Rscript, Pentaho, Excel, Git, Google Drive e Google Sheets - Vitória/ES.
 
 ## Conhecimentos
 
